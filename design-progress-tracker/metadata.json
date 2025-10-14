@@ -1,0 +1,5 @@
+{
+  "name": "Design Progress Tracker",
+  "description": "A multi-user, multi-project application to track the design progress of complex engineering modules and their parent end-items. Features AI-powered suggestions for design steps to streamline project setup.",
+  "requestFramePermissions": []
+}
